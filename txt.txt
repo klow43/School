@@ -1,3 +1,2 @@
 Just plain text for the task number 1!
-Task number 2 is create branch1 and branch2 from main!
-Task number 3 is to change text in branch 1 and branch2
+This is task 3 also!cause changing branches and text are confusing!
